@@ -8,6 +8,7 @@ const getName2 = function(name) {
 
 const getName3 = (name) => {
     return `Имя равно ${name}`;
+
 };
 
 console.log(getName1("Акакий"));
